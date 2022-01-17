@@ -58,7 +58,7 @@ public class Main {
             } while (!getAnimal(whenBorn.get(cowA)).equals(animal));
         }
 
-        io.println(Math.abs(whenBorn.get("Bessie") - whenBorn.get("Elsie")));
+        io.println(Math.abs(whenBorn.get("Elsie")));
 
         io.close();
     }
