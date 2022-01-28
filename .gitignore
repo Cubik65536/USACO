@@ -1,3 +1,6 @@
+# Temporarily ignore unfinished contests
+/2021-2022/2022-JAN
+
 # macOS Finder
 .DS_Store
 
